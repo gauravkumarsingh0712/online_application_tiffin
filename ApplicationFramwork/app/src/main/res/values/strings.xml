@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Online Tiffin Book</string>
+    <string name="online_book_tiffin">Online Tiffin Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your Password?</string>
+    <string name="not_yet_registered">Not yet registered?</string>
+    <string name="farm_name">Farm Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="registration">Registration</string>
+    <string name="create_account">Create Account</string>
+    <string name="msg_field_cannot_left_blank">Field cannot left blank.</string>
+    <string name="msg_email_format_is_incorrect">Email format is incorrect.</string>
+</resources>
